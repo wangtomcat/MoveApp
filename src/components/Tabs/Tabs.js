@@ -6,7 +6,8 @@ const navs=[
   {id:'1',n:'/img/time-n.png',a:'/img/time-a.png',path:'/time'},
   {id:'2',n:'/img/start-n.png',a:'/img/start-a.png',path:'/start'},
   {id:'3',n:'/img/sport-n.png',a:'/img/sport-a.png',path:'/sport'},
-  {id:'4',n:'/img/mine-n.png',a:'/img/mine-a.png',path:'/mine'},
+  {id:'4',n:'/img/data-n.png',a:'/img/data-a.png',path:'/data'},
+  {id:'5',n:'/img/mine-n.png',a:'/img/mine-a.png',path:'/mine'},
 ]
 export default ()=>{
   let history = useHistory();
